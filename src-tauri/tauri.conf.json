@@ -59,8 +59,10 @@
         "height": 600,
         "resizable": true,
         "title": "yansterm",
-        "width": 800
+        "width": 800,
+        "transparent": true
       }
-    ]
+    ],
+    "macOSPrivateApi": true
   }
 }
