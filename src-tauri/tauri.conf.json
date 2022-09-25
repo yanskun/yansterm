@@ -59,8 +59,7 @@
         "height": 600,
         "resizable": true,
         "title": "sample",
-        "width": 800,
-        "transparent": true
+        "width": 800
       }
     ],
     "macOSPrivateApi": true
