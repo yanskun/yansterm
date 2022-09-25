@@ -1,12 +1,11 @@
-# Tauri + Next.js + Typescript
+# fresh project
 
-This template should help get you started developing with Tauri, Next.js and Typescript.
+### Usage
 
-## Recommended IDE Setup
+Start the project:
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+```
+deno task start
+```
 
-## Reference
-
-- Create Terminal with Rust
-https://poor.dev/blog/terminal-anatomy/
+This will watch the project directory and restart as necessary.
